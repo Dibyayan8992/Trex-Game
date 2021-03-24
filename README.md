@@ -1,7 +1,7 @@
 # [Trex Game]( https://dibyayan8992.github.io/Trex-Game/)</h2>
 This Is An Infinite Runner Game | Enjoy !
 
-![alt text](FC2.PNG)
+![alt text](TREX.jpg)
 <p align="center">
   <b><i>Trex Game</i></b>
 
